@@ -40,9 +40,9 @@ const styles = StyleSheet.create({
 
     },
     contentContainer: {
-        marginBottom: 10,
-        padding: 10,
-        paddingTop: 5,
+        marginBottom: 11,
+        padding: 11,
+        paddingTop: 6,
         backgroundColor: '#e9ebee',
         borderRadius: 10,
     },
@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
         borderRadius: 10
     },
     toolContainer: {
-        marginTop: 5,
+        marginTop: 6,
         flexDirection: 'row',
         width: 0.6 * screenWidth,
 
